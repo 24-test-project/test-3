@@ -7,12 +7,12 @@ assignees: ''
 
 ---
 
-## Description
+## 📃 Description
 설명을 작성하세요.
 
-## To-do
+## ✅ To-do
 - [ ] todo 1
 - [ ] todo 2
 
-## ETC
+## 📌 ETC
 기타사항
