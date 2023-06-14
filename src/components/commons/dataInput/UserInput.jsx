@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 import { Cont, InpLabel } from "./InputStyle.js";
-//
+
 export default function UserInput(props) {
   return (
     <Cont>

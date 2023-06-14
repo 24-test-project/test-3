@@ -27,7 +27,7 @@ export const Cont = styled.div`
     margin-top: 0px;
   }
 `;
-//
+
 export const InpLabel = styled.label`
   font-size: 16px;
   color: #767676;
